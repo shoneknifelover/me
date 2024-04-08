@@ -1,1 +1,37 @@
 
+h1 {
+    font-family: "Yuji Syuku", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    color: white;
+}
+
+html {
+    font-family: sans-serif;
+    background-color: lightslategrey;
+}
+
+
+body {
+    width: 60%;
+    max-width: 500px;
+    min-width: 200px;
+    margin: 0 auto;
+}
+
+.center {
+    text-align: center;
+}
+
+li {
+    color: white;
+}
+
+.clearButton {
+    width: 40%;
+    margin-top: 500px;
+    margin-left: 125px
+    
+    
+}
